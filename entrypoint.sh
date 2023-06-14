@@ -6,7 +6,7 @@ UUID=${UUID:-'1d214e1d-4e74-4a34-8498-1fd6f0d43708'}
 
 # 其他Paas保活
 PAAS1_URL=xileok-ghrtyc784.cloud.okteto.net
-PAAS2_URL=
+PAAS2_URL=app-ghrtyc784.cloud.okteto.net
 PAAS3_URL=
 PAAS4_URL=
 PAAS5_URL=
